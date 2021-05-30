@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithm Problem solving
 From 3 different algorithm Website
 
 - Leetcode (https://leetcode.com)
